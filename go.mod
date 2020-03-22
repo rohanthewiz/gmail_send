@@ -1,4 +1,4 @@
-module gmail_send
+module github.com/rohanthewiz/gmail_send
 
 go 1.12
 
