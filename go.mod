@@ -1,4 +1,4 @@
-module gmailsend
+module gmail_send
 
 go 1.12
 
